@@ -6,3 +6,6 @@ remote 고치면 끝
    
    
 받는건 clone 한 뒤에 import 하면 된다 
+
+
+지우는건 우클릭 team에서 disconnect 한 뒤에 파일과 통째로 삭제 시키면 된다 .
